@@ -29,7 +29,6 @@
 - https://mp.weixin.qq.com/s/H9CoDtII37dKJYJ9HleY6w
 - https://mp.weixin.qq.com/s/xGY1PxoH9Tlio2mWH7QLjw
 - [杜跃进：数据安全治理的基本思路](https://www.secrss.com/articles/6420)
-- [api安全治理思路](https://mp.weixin.qq.com/s/Q9fZrq51fLNf0itPj1p9Vw)
 - 数据安全复合治理与实践白皮书
 - [参数篡改与流量重放](https://juejin.cn/post/6890798533473992717)
 - [常见API攻击](https://zhuanlan.zhihu.com/p/472101085)
