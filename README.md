@@ -120,11 +120,16 @@
 - [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
 - [RSAC 2019 | 采用NLP机器学习来进行自动化合规风险治理](http://blog.nsfocus.net/automated-compliance-risk-management-nlp-machine-learning/)
 
-### 时间基线
+### 时间基线 ###
 - [liao wenzhe整理的资料](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 
 ### 渗透测试入门 ###
 - [dvwa闯关教程](https://www.freebuf.com/articles/web/274058.html)
+
+### 风控 ###
+- [数美风控](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
+- [阿里云人工智能waf](https://www.aliyun.com/product/waf)
+- [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
 
 ## 数据集
 
