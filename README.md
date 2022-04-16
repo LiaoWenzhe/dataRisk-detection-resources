@@ -131,6 +131,14 @@
 - [阿里云人工智能waf](https://www.aliyun.com/product/waf)
 - [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
 
+
+### 图数据挖掘
+- 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
+- 《Developing an Ontology for Cyber Security Knowledge Graphs》
+- 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
+- https://mp.weixin.qq.com/s/uCWvOG7Nq175WhD4u4vuTQ
+- https://mp.weixin.qq.com/s/16oydPSrgajqdOdiaobHXw
+
 ## 数据集
 
 1、[Samples of Security Related Dats](http://link.zhihu.com/?target=http%3A//www.secrepo.com/)
