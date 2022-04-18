@@ -32,9 +32,6 @@
 - 数据安全复合治理与实践白皮书
 - [参数篡改与流量重放](https://juejin.cn/post/6890798533473992717)
 - [常见API攻击](https://zhuanlan.zhihu.com/p/472101085)
-- [salt blog](https://salt.security/blog)
-- [imperva blog](https://www.imperva.com/blog/)
-
 
 ### 恶意注册账户
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
@@ -193,13 +190,10 @@
 - [百度rasp安全检测工具](https://rasp.baidu.com/doc/)
 
 ## 优秀公众号
--  安全学术圈
 -  阿里安全应急响应中心
 -  腾讯安全应急响应中心
 -  百度安全应急响应中心
--  dataFunTalk
 -  freebuf
--  404 Not F0und
 
 ## 相关顶会
 -  BlackHat / BlackHat Asia
@@ -226,25 +220,20 @@
 -  安恒信息
 -  闪捷信息
 -  奇安信
--  imperva
 
 ## 相关赛事
 -  DataCon
 -  DataFountain
 
 ## 优秀书籍
-- 《风控要略：互联网业务反欺诈之路》
 - 《web安全之机器学习入门》
 - 《web安全之深度学习实战》
 - 《web安全之强化学习与Gan》
-- 《白帽子讲web安全》
-- 《图解http》
 
 ## 相关博客
 - https://blog.csdn.net/Liao_Wenzhe/
 - http://iami.xyz
 - https://www.cdxy.me/
-- https://blog.netlab.360.com/
 - 阿里云安全
 
 
