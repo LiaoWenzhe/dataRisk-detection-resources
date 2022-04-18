@@ -26,7 +26,6 @@
 - https://mp.weixin.qq.com/s/-9xkAROp7_A6gDjTLxfUsg
 
 ### 风险业务
-- https://mp.weixin.qq.com/s/H9CoDtII37dKJYJ9HleY6w
 - https://mp.weixin.qq.com/s/xGY1PxoH9Tlio2mWH7QLjw
 - [杜跃进：数据安全治理的基本思路](https://www.secrss.com/articles/6420)
 - 数据安全复合治理与实践白皮书
