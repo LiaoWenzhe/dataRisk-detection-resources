@@ -36,7 +36,6 @@
 ### 恶意注册账户
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
 - 《DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks》
-- https://zhuanlan.zhihu.com/p/59666737
 
 
 ### marchine learning for UEBA
@@ -94,13 +93,6 @@
 - [https://www.secrss.com/articles/14369]
 - [https://www.cnblogs.com/networking/p/14788479.html]
 
-
-### 爬虫识别
-- https://blog.csdn.net/xiao_yi_xiao/article/details/101835176
-- https://blog.csdn.net/qq_25834767/article/details/103546251
-
-### 应用日志与数据库日志IP-API-SQl三层关联支撑风险发现
-
 ### Web安全异常检测 ###
 - [LSTM识别恶意HTTP请求](https://www.cdxy.me/?p=775)
 - [基于URL异常检测的机器学习模型mini部署](http://4o4notfound.org/index.php/archives/84/)
@@ -130,8 +122,6 @@
 - 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
 - 《Developing an Ontology for Cyber Security Knowledge Graphs》
 - 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
-- https://mp.weixin.qq.com/s/uCWvOG7Nq175WhD4u4vuTQ
-- https://mp.weixin.qq.com/s/16oydPSrgajqdOdiaobHXw
 
 ## 数据集
 
