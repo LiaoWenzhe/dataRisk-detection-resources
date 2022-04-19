@@ -9,12 +9,6 @@
 笔者组建了个大数据安全技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 
 最近更新日期为：2022/1<br><br>
-## 入门综述
-
-- [为什么机器学习解决网络安全问题总是失败：谈谈特征空间](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
-- [为什么机器学习解决网络安全问题总是失败：脆弱的系统工程](https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html)
-- [为什么机器学习解决网络安全问题总是失败：不合理的评估指标](https://toooold.com/2021/11/13/why_ml_fails_security_evaluation_cn.html)
-- [为什么机器学习解决网络安全问题总是失败：机器学习不是万能灵药](https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html)
 
 ## AI应用防御篇
 用AI来做应用安全防护
