@@ -39,7 +39,7 @@
 - 《DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks》
 
 ### 机器学习与安全
-- [结合强化学习与CNN的Webshell检测方法](Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning)
+- [结合强化学习与CNN的Webshell检测方法](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)
 - [自动机器学习的安全风险](https://www.usenix.org/system/files/sec22summer_pang.pdf)
 - [利用开源情报发现并解释恶意行为](https://ieeexplore.ieee.org/abstract/document/9566808/)
 - [BadNL: 语义保持改进的NLP模型后门攻击](https://arxiv.org/pdf/2006.01043.pdf)
