@@ -38,6 +38,12 @@
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
 - 《DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks》
 
+### 机器学习与安全
+- [结合强化学习与CNN的Webshell检测方法](Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning)
+- [自动机器学习的安全风险](https://www.usenix.org/system/files/sec22summer_pang.pdf)
+- [利用开源情报发现并解释恶意行为](https://ieeexplore.ieee.org/abstract/document/9566808/)
+- [BadNL: 语义保持改进的NLP模型后门攻击](https://arxiv.org/pdf/2006.01043.pdf)
+- [APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT恶意软件](https://www.sciencedirect.com/science/article/pii/S0020025520308628?via%3Dihub)
 
 ### marchine learning for UEBA
 - 《AI2: Training a big data machine to defend》
