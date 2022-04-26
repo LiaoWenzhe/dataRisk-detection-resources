@@ -112,10 +112,6 @@
 ### 渗透测试入门 ###
 - [dvwa闯关教程](https://www.freebuf.com/articles/web/274058.html)
 
-### 风控 ###
-- [数美风控](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
-- [阿里云人工智能waf](https://www.aliyun.com/product/waf)
-- [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
 
 
 ### 图数据挖掘
