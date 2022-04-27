@@ -126,6 +126,13 @@
 - 《Developing an Ontology for Cyber Security Knowledge Graphs》
 - 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
 
+
+
+### 风控 ###
+- [数美风控](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
+- [阿里云人工智能waf](https://www.aliyun.com/product/waf)
+- [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
+
 ## 数据集
 
 1、[Samples of Security Related Dats](http://link.zhihu.com/?target=http%3A//www.secrepo.com/)
