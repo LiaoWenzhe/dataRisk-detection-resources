@@ -38,6 +38,15 @@
 - [BadNL: 语义保持改进的NLP模型后门攻击](https://arxiv.org/pdf/2006.01043.pdf)
 - [APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT恶意软件](https://www.sciencedirect.com/science/article/pii/S0020025520308628?via%3Dihub)
 
+
+### 图数据挖掘
+- 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
+- 《Developing an Ontology for Cyber Security Knowledge Graphs》
+- 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
+- https://zhuanlan.zhihu.com/p/69159780
+- https://zhuanlan.zhihu.com/p/74274673
+- https://zhuanlan.zhihu.com/p/75123819
+
 ### marchine learning for UEBA
 - 《AI2: Training a big data machine to defend》
 - 《Big Data Security Challenges: An Overview and Application of User Behavior Analytics》
@@ -111,14 +120,6 @@
 
 ### 渗透测试入门 ###
 - [dvwa闯关教程](https://www.freebuf.com/articles/web/274058.html)
-
-
-
-### 图数据挖掘
-- 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
-- 《Developing an Ontology for Cyber Security Knowledge Graphs》
-- 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
-
 
 
 ### 风控 ###
