@@ -15,7 +15,7 @@
 用AI来做应用安全防护
 
 
-### 数据安全风控落地实践
+### 数据安全智能风控落地实践
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
 ### OWASP10
 - https://salt.security/blog/what-is-the-owasp-api-security-top-10?
