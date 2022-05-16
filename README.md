@@ -22,6 +22,9 @@
 
 ### API风险发现系统
 - https://mp.weixin.qq.com/s/-9xkAROp7_A6gDjTLxfUsg
+- https://www.freebuf.com/articles/web/189981.html
+- https://search.freebuf.com/search/?search=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0#article
+- [基于机器学习的敏感信息泄露治理探索](https://www.freebuf.com/articles/es/261641.html)
 
 ### 风险业务
 - https://mp.weixin.qq.com/s/xGY1PxoH9Tlio2mWH7QLjw
@@ -37,6 +40,10 @@
 
 ### 恶意邮件
 - [RSA 2020创新沙盒盘点| INKY——基于机器学习的恶意邮件识别系统](https://www.freebuf.com/articles/network/227754.html)
+
+### 恶意流量检测
+- [机器学习之恶意流量检测的特征工程](https://www.freebuf.com/articles/web/223481.html)
+- [机器学习之KNN检测恶意流量](https://www.freebuf.com/articles/web/223056.html)
 
 ### 机器学习与安全
 - [结合强化学习与CNN的Webshell检测方法](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)
@@ -77,6 +84,7 @@
 - https://mp.weixin.qq.com/s/rdOqndedCSs926GiQRs2Rg
 
 ### 入侵检测
+- [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
 - https://blog.cloudflare.com/api-abuse-detection/
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
 - [ExecScent: Mining for New C&C Domains in Live Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
