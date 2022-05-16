@@ -34,6 +34,10 @@
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
 - 《DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks》
 
+
+### 恶意邮件
+- [RSA 2020创新沙盒盘点| INKY——基于机器学习的恶意邮件识别系统](https://www.freebuf.com/articles/network/227754.html)
+
 ### 机器学习与安全
 - [结合强化学习与CNN的Webshell检测方法](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)
 - [自动机器学习的安全风险](https://www.usenix.org/system/files/sec22summer_pang.pdf)
