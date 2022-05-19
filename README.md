@@ -1,6 +1,5 @@
 
-# dataRisk-detection-resources(数据安全智能风控学习资源)
-
+# dataRisk-detection-resources
   English | [简体中文](README_zh-CN.md)
 
 <br>
@@ -60,6 +59,7 @@ Using AI for Application Security Protection
 - 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
 - 《Developing an Ontology for Cyber Security Knowledge Graphs》
 - 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
+- https://zhuanlan.zhihu.com/p/406415230
 - https://zhuanlan.zhihu.com/p/69159780
 - https://zhuanlan.zhihu.com/p/74274673
 - https://zhuanlan.zhihu.com/p/75123819
