@@ -228,27 +228,27 @@ Using AI for Application Security Protection
 -  RSAC
 
 ## Related companies
--  全知科技
--  salt
--  绿盟科技
--  安恒信息
--  闪捷信息
--  奇安信
+- Omniscience Technology
+- salt
+- NSFOCUS
+- Anheng Information
+- Flash information
+- Qi Anxin
 
 ## Related events
--  DataCon
--  DataFountain
+- DataCon
+- DataFountain
 
 ## excellent books
-- 《web安全之机器学习入门》
-- 《web安全之深度学习实战》
-- 《web安全之强化学习与Gan》
+- "Introduction to Machine Learning for Web Security"
+- "Deep Learning in Web Security"
+- "Reinforcement Learning and Gan of Web Security"
 
 ## Related Blogs
 - https://blog.csdn.net/Liao_Wenzhe/
 - http://iami.xyz
 - https://www.cdxy.me/
-- Alibaba Cloud Security
+-Alibaba Cloud Security
 
 
 ## Some interesting web attack and defense speeches on BlackHat
