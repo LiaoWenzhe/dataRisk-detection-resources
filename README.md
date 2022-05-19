@@ -10,54 +10,53 @@ With the release of China's "Data Security Protection Law" in 2021, it means tha
 The author is fortunate to join one of China's leading data security startups in 2021, engaged in cutting-edge research and implementation of data science combined with data security. In the process of exploration, I found that there are not many materials on the Internet specifically for data security, so I came up with the idea of arranging relevant materials and thinking, hoping to do my best to promote the development of the community.<br>
 
 
-**拒绝白嫖，欢迎star！**<br><br>
-笔者组建了个大数据安全技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
+**Refuse to prostitute, welcome star!！**<br><br>
+The author has set up a big data security technology exchange group, with friends all over Silicon Valley, Singapore, Tencent, Ali, Zhejiang University, etc. Like-minded friends are welcome to contact me to join!<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 
-最近更新日期为：2022/1<br><br>
+Last updated date is:2022/1<br><br>
 
-## AI应用防御篇
-用AI来做应用安全防护
+## AI Application Defense
+Using AI for Application Security Protection
 
 
-### 数据安全智能风控落地实践
+### Data security intelligent risk control landing practice
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
 ### OWASP10
 - https://salt.security/blog/what-is-the-owasp-api-security-top-10?
 
-### API风险发现系统
+### API Risk Discovery System
 - https://mp.weixin.qq.com/s/-9xkAROp7_A6gDjTLxfUsg
 - https://www.freebuf.com/articles/web/189981.html
 - https://search.freebuf.com/search/?search=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0#article
-- [基于机器学习的敏感信息泄露治理探索](https://www.freebuf.com/articles/es/261641.html)
+- [Exploration of sensitive information leakage governance based on machine learning](https://www.freebuf.com/articles/es/261641.html)
 
-### 风险业务
+### Risk business
 - https://mp.weixin.qq.com/s/xGY1PxoH9Tlio2mWH7QLjw
-- [杜跃进：数据安全治理的基本思路](https://www.secrss.com/articles/6420)
-- 数据安全复合治理与实践白皮书
-- [参数篡改与流量重放](https://juejin.cn/post/6890798533473992717)
-- [常见API攻击](https://zhuanlan.zhihu.com/p/472101085)
+- [Du Yuejin: Basic Ideas of Data Security Governance](https://www.secrss.com/articles/6420)
+- Data Security Composite Governance and Practice White Paper
+- [Parameter tampering and traffic replay](https://juejin.cn/post/6890798533473992717)
+- [Common API Attacks](https://zhuanlan.zhihu.com/p/472101085)
 
-### 恶意注册账户
-- 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
-- 《DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks》
-
-
-### 恶意邮件
-- [RSA 2020创新沙盒盘点| INKY——基于机器学习的恶意邮件识别系统](https://www.freebuf.com/articles/network/227754.html)
-
-### 恶意流量检测
-- [机器学习之恶意流量检测的特征工程](https://www.freebuf.com/articles/web/223481.html)
-- [机器学习之KNN检测恶意流量](https://www.freebuf.com/articles/web/223056.html)
-
-### 机器学习与安全
-- [结合强化学习与CNN的Webshell检测方法](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)
-- [自动机器学习的安全风险](https://www.usenix.org/system/files/sec22summer_pang.pdf)
-- [利用开源情报发现并解释恶意行为](https://ieeexplore.ieee.org/abstract/document/9566808/)
-- [BadNL: 语义保持改进的NLP模型后门攻击](https://arxiv.org/pdf/2006.01043.pdf)
-- [APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT恶意软件](https://www.sciencedirect.com/science/article/pii/S0020025520308628?via%3Dihub)
+### Malicious registered account
+- "Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach"
+- "DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks"
 
 
-### 图数据挖掘
+### Malicious Mail
+- [RSA 2020 Innovation Sandbox Inventory | INKY - Malicious Email Identification System Based on Machine Learning](https://www.freebuf.com/articles/network/227754.html)
+
+### Malicious traffic detection
+- [Machine Learning for Malicious Traffic Detection Feature Engineering](https://www.freebuf.com/articles/web/223481.html)
+- [Machine Learning KNN Detects Malicious Traffic](https://www.freebuf.com/articles/web/223056.html)
+
+### Machine Learning and Security
+- [Webshell detection method combining reinforcement learning and CNN](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)
+- [Security Risks of Automated Machine Learning](https://www.usenix.org/system/files/sec22summer_pang.pdf)
+- [Using open source intelligence to detect and explain malicious behavior](https://ieeexplore.ieee.org/abstract/document/9566808/)
+- [BadNL: Semantic Preserving Improved NLP Model Backdoor Attack](https://arxiv.org/pdf/2006.01043.pdf)
+- [APTMalInsight: Identifying and Recognizing APT Malware Based on System Call Information and Ontology Knowledge Framework](https://www.sciencedirect.com/science/article/pii/S0020025520308628?via%3Dihub)
+
+### Graph Data Mining
 - 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
 - 《Developing an Ontology for Cyber Security Knowledge Graphs》
 - 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
@@ -87,71 +86,71 @@ The author is fortunate to join one of China's leading data security startups in
 ### MLOPS
 - https://mp.weixin.qq.com/s/rdOqndedCSs926GiQRs2Rg
 
-### 入侵检测
-- [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
+### Intrusion Detection
+- [Web attack classification and detection model based on machine learning](https://www.freebuf.com/news/184687.html)
 - https://blog.cloudflare.com/api-abuse-detection/
-- [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
+- [Using Machine Learning to Detect Malicious HTTP Outbound Traffic](https://www.freebuf.com/column/170483.html)
 - [ExecScent: Mining for New C&C Domains in Live Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [MADE: Security Analytics for Enterprise Threat Detection](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
-- [机器学习在互联网巨头公司实践](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
-- [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
-- [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
-- [基于机器学习的恶意软件加密流量检测研究分享](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5%af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
+- [Machine Learning Practices in Internet Giants](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
+- [Application of Machine Learning in Intrusion Detection - Training Intrusion Detection Discriminant Model Based on ADFA-LD Training Set](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
+- [datacon competition direction three - attack source and attacker analysis writeup](https://github.com/ReAbout/datacon)
+- [Machine learning-based malware encryption traffic detection research sharing](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8% e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5% af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
 - [anomaly-detection-through-reinforcement-learning](https://zighra.com/blogs/anomaly-detection-through-reinforcement-learning/)
 
-### 恶意url检测
+### Malicious url detection
 
-- [URLNet：通过深度学习学习URL表示以进行恶意URL检测](https://arxiv.org/abs/1802.03162v2)
-- [我的AI安全检测学习笔记（一）](http://4o4notfound.org/index.php/archives/127/)
-- 《Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs》
+- [URLNet: Learning URL Representations via Deep Learning for Malicious URL Detection](https://arxiv.org/abs/1802.03162v2)
+- [My AI Security Detection Study Notes (1)](http://4o4notfound.org/index.php/archives/127/)
+- "Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs"
 
 ### DDOS
 
-- [基于KDDCUP 99数据集预测DDoS攻击](https://github.com/aviraonepiece/machine_learning)
-- [基于谱分析与统计机器学习的DDoS攻击检测技术研究](http://wap.cnki.net/lunwen-1013353778.html)
-- [基于机器学习的分布式拒绝服务攻击检测方法研究](http://cdmd.cnki.com.cn/Article/CDMD-90002-2007140546.htm)
-- [DDoS Attacks Using Hidden Markov Models and Cooperative ReinforcementLearning*](https://pdfs.semanticscholar.org/6363/b9f28a7e037abe626a2e88fac3393c04bfda.pdfDefending )
+- [Predicting DDoS attacks based on KDDCUP 99 dataset](https://github.com/aviraonepiece/machine_learning)
+- [Research on DDoS Attack Detection Technology Based on Spectral Analysis and Statistical Machine Learning](http://wap.cnki.net/lunwen-1013353778.html)
+- [Research on Distributed Denial of Service Attack Detection Method Based on Machine Learning](http://cdmd.cnki.com.cn/Article/CDMD-90002-2007140546.htm)
+- [DDoS Attacks Using Hidden Markov Models and Cooperative ReinforcementLearning*](https://pdfs.semanticscholar.org/6363/b9f28a7e037abe626a2e88fac3393c04bfda.pdfDefending)
 
 
-### 僵尸网络检测
-- [Win    the    0-Day    Racing    Game    Against    Botnet    on    Cloud](https://i.blackhat.com/asia-20/Friday/asia-20-Xu-Win-The-0-Day-Racing-Game-Against-Botnet-In-Public-Cloud.pdf)
-- [datacon 2020 僵尸网络检测](https://zhuanlan.zhihu.com/p/186254809)
+### Botnet Detection
+- [Win the 0-Day Racing Game Against Botnet on Cloud](https://i.blackhat.com/asia-20/Friday/asia-20-Xu-Win-The-0-Day-Racing-Game-Against -Botnet-In-Public-Cloud.pdf)
+- [datacon 2020 Botnet Detection](https://zhuanlan.zhihu.com/p/186254809)
 
-## dga域名检测
+## dga domain name detection
 - [https://www.secrss.com/articles/14369]
 - [https://www.cnblogs.com/networking/p/14788479.html]
 
-### Web安全异常检测 ###
-- [LSTM识别恶意HTTP请求](https://www.cdxy.me/?p=775)
-- [基于URL异常检测的机器学习模型mini部署](http://4o4notfound.org/index.php/archives/84/)
-- [我的AI安全检测学习笔记（一）](http://4o4notfound.org/index.php/archives/127/)
-- [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
-- [基于机器学习的攻击检测系统](https://www.freebuf.com/column/189981.html)
-- [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
-- [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
-- [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ%2B%2F89ZUA#rd)
-- [RSAC 2019 | 机器学习算法分析引擎助力安全威胁推理分析](http://blog.nsfocus.net/machine-learning-algorithms-analysis-engine-security-threat-reasoning/)
-- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
-- [RSAC 2019 | 采用NLP机器学习来进行自动化合规风险治理](http://blog.nsfocus.net/automated-compliance-risk-management-nlp-machine-learning/)
+### Web Security Anomaly Detection ###
+- [LSTM identifies malicious HTTP requests](https://www.cdxy.me/?p=775)
+- [Mini deployment of machine learning model based on URL anomaly detection](http://4o4notfound.org/index.php/archives/84/)
+- [My AI Security Detection Study Notes (1)](http://4o4notfound.org/index.php/archives/127/)
+- [Web attack classification and detection model based on machine learning](https://www.freebuf.com/news/184687.html)
+- [Machine Learning Based Attack Detection System](https://www.freebuf.com/column/189981.html)
+- [WAF Construction and Operation and AI Application Practice](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
+- [Advantages of Machine Learning in Web Security Detection](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
+- [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ %2B%2F89ZUA#rd)
+- [RSAC 2019 | Machine Learning Algorithm Analysis Engine Helps Security Threat Reasoning Analysis](http://blog.nsfocus.net/machine-learning-algorithms-analysis-engine-security-threat-reasoning/)
+- [Solving the last mile between machine learning and security operations](https://www.anquanke.com/post/id/163637)
+- [RSAC 2019 | Using NLP Machine Learning for Automated Compliance Risk Management](http://blog.nsfocus.net/automated-compliance-risk-management-nlp-machine-learning/)
 
-### 时间基线 ###
-- [liao wenzhe整理的资料](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
+### Time Baseline ###
+- [Information compiled by liao wenzhe](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 
-### 渗透测试入门 ###
-- [dvwa闯关教程](https://www.freebuf.com/articles/web/274058.html)
+### Getting Started with Penetration Testing ###
+- [dvwa tutorial](https://www.freebuf.com/articles/web/274058.html)
 
 
-### 风控 ###
-- [数美风控](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
-- [阿里云人工智能waf](https://www.aliyun.com/product/waf)
-- [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [智能风控模型的自动化迭代](https://mp.weixin.qq.com/s/l4KWEGqQiSzKSIOF5O6pTg)
-- [第四范式智能风控中台架构设计及应用](https://mp.weixin.qq.com/s/C6TvPV5f7f-iGTQfuhWKKg)
-- [58同城风控平台演进](https://mp.weixin.qq.com/s/x2JjbIc8Br7qlHTZxLn4sQ)
-- [风控建模流程：以京东群体感知项目为例](https://mp.weixin.qq.com/s/wHOhl_jH-ZdJGXz1dN0u8w)
+### Wind control ###
+- [Shumei Risk Control](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
+- [Aliyun Artificial Intelligence waf](https://www.aliyun.com/product/waf)
+- [Du Zhongwei: Identification and Traceability of Shell Black Ash Products](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
+- [How to build a good intelligent risk control tool system? ](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [Automated Iteration of Intelligent Risk Control Model](https://mp.weixin.qq.com/s/l4KWEGqQiSzKSIOF5O6pTg)
+- [Fourth Paradigm Intelligent Risk Control Middle Platform Architecture Design and Application](https://mp.weixin.qq.com/s/C6TvPV5f7f-iGTQfuhWKKg)
+- [58 City Risk Control Platform Evolution](https://mp.weixin.qq.com/s/x2JjbIc8Br7qlHTZxLn4sQ)
+- [Risk Control Modeling Process: Take the JD Group Perception Project as an Example](https://mp.weixin.qq.com/s/wHOhl_jH-ZdJGXz1dN0u8w)
 
-## 数据集
+## data set
 
 1、[Samples of Security Related Dats](http://link.zhihu.com/?target=http%3A//www.secrepo.com/)
 
@@ -176,41 +175,41 @@ The author is fortunate to join one of China's leading data security startups in
 11. [Collection of Security and Network Data Resources](http://www.covert.io/data-links/)
 12. http://www.secrepo.com/
 
-13. [Vulnbank_dataset](https://github.com/AnchoretY/AI_And_Web_Security_Library/tree/master/dataset/vulnbank_dataset). KDD大赛的一个竞赛项目，主要目的是使用机器学习得手段建立一个入侵检测器。其中的入侵行为主要包括：DDOS、密码暴力破解、缓冲区溢出、扫描等多种攻击行为。
+13. [Vulnbank_dataset](https://github.com/AnchoretY/AI_And_Web_Security_Library/tree/master/dataset/vulnbank_dataset). A competition project of the KDD competition, the main purpose is to use machine learning methods to build an intrusion detector. The intrusion behaviors mainly include: DDOS, password brute force cracking, buffer overflow, scanning and other attack behaviors.
 
-## 优秀开源推荐
+## Excellent open source recommendation
 - https://github.com/LiaoWenzhe
 - https://github.com/yzhao062/pyod
 - https://github.com/yzhao062/anomaly-detection-resources
-- [网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
-- [最终安全数据科学和机器学习指南](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-- [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security#-datasets)
-- [404师傅的整理](https://github.com/404notf0und/AI-for-Security-Learning)
+- [Machine Learning in Cybersecurity Collection](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
+- [The Ultimate Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+- [Machine Learning for Cyber ​​Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security#-datasets)
+- [404 Master's finishing](https://github.com/404notf0und/AI-for-Security-Learning)
 - [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 - [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets)
 - [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 - https://github.com/0xMJ/AI-Security-Learning
-- [乌云](https://wooyun.x10sec.org/search?keywords=aa&content_search_by=by_bugs)
+- [Dark Cloud](https://wooyun.x10sec.org/search?keywords=aa&content_search_by=by_bugs)
 
-## 思维方式：
-- [提出好的想法和方向](https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ)
-- [刘知远：好的研究想法从哪里来](https://zhuanlan.zhihu.com/p/93765082)
-- [MIT人工智能实验室：如何做研究](https://blog.csdn.net/jinjinstudy/article/details/9413213)
+## way of thinking:
+- [Propose good ideas and directions](https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ)
+- [Liu Zhiyuan: Where do good research ideas come from](https://zhuanlan.zhihu.com/p/93765082)
+- [MIT Artificial Intelligence Lab: How to do research](https://blog.csdn.net/jinjinstudy/article/details/9413213)
 
 
-## 实用工具
-- [ReadPaper论文阅读平台](https://mp.weixin.qq.com/s/iT3cCqw59707iN4-ChorFA)
+## Utilities
+- [ReadPaper paper reading platform](https://mp.weixin.qq.com/s/iT3cCqw59707iN4-ChorFA)
 - arxiv
 - google scholar
-- [百度rasp安全检测工具](https://rasp.baidu.com/doc/)
+- [Baidu rasp security detection tool](https://rasp.baidu.com/doc/)
 
-## 优秀公众号
--  阿里安全应急响应中心
--  腾讯安全应急响应中心
--  百度安全应急响应中心
--  freebuf
+## Excellent public account
+- Ali Security Emergency Response Center
+- Tencent Security Emergency Response Center
+- Baidu Security Emergency Response Center
+- freebuf
 
-## 相关顶会
+## Related Top Clubs
 -  BlackHat / BlackHat Asia
 -  owasp
 -  botconf
@@ -228,7 +227,7 @@ The author is fortunate to join one of China's leading data security startups in
 -  TDSC
 -  RSAC
 
-## 相关公司
+## Related companies
 -  全知科技
 -  salt
 -  绿盟科技
@@ -236,23 +235,23 @@ The author is fortunate to join one of China's leading data security startups in
 -  闪捷信息
 -  奇安信
 
-## 相关赛事
+## Related events
 -  DataCon
 -  DataFountain
 
-## 优秀书籍
+## excellent books
 - 《web安全之机器学习入门》
 - 《web安全之深度学习实战》
 - 《web安全之强化学习与Gan》
 
-## 相关博客
+## Related Blogs
 - https://blog.csdn.net/Liao_Wenzhe/
 - http://iami.xyz
 - https://www.cdxy.me/
-- 阿里云安全
+- Alibaba Cloud Security
 
 
-## BlackHat 上一些有意思的web攻防演讲
+## Some interesting web attack and defense speeches on BlackHat
 - https://www.blackhat.com/docs/asia-17/materials/asia-17-Dong-Beyond-The-Blacklists-Detecting-Malicious-URL-Through-Machine-Learning.pdf
 - https://i.blackhat.com/briefings/asia/2018/asia-18-Simakov-Marina-Breaking-The-Attack-Graph.pdf
 - https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Pham-Automated-REST-API-Endpoint.pdf
