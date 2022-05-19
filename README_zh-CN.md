@@ -61,6 +61,7 @@
 - 《A Practical Approach to Constructing a Knowledge Graph for Cybersecurity》
 - 《Developing an Ontology for Cyber Security Knowledge Graphs》
 - 《Towards a Relation Extraction Framework for Cyber-Security Concepts》
+- https://zhuanlan.zhihu.com/p/406415230
 - https://zhuanlan.zhihu.com/p/69159780
 - https://zhuanlan.zhihu.com/p/74274673
 - https://zhuanlan.zhihu.com/p/75123819
