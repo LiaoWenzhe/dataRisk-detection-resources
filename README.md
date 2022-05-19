@@ -141,6 +141,13 @@
 - [数美风控](https://mp.weixin.qq.com/s/lFq8BhLgPgGHwrCgJ6bd4w)
 - [阿里云人工智能waf](https://www.aliyun.com/product/waf)
 - [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [智能风控模型的自动化迭代](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
 
 ## 数据集
 
