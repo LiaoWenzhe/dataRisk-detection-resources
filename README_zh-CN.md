@@ -1,7 +1,7 @@
 
 # dataRisk-detection-resources(数据安全智能风控学习资源)
 
-  English | [简体中文](README_zh-CN.md)
+  [English](README.md) | 简体中文
 
 <br>
 
