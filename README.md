@@ -1,7 +1,9 @@
 
 # dataRisk-detection-resources(数据安全智能风控学习资源)
 
-English | [简体中文](README_zh-CN.md)
+  English | [简体中文](README_zh-CN.md)
+
+<br>
 
 随着2021年中国《数据安全保护法》发布，意味着数据安全有望在中国形成新的风口.<br>
 
