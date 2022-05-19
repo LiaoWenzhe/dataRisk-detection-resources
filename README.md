@@ -142,12 +142,10 @@
 - [阿里云人工智能waf](https://www.aliyun.com/product/waf)
 - [杜中伟：贝壳黑灰产识别与溯源](https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g)
 - [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [智能风控模型的自动化迭代](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
-- [如何构建好的智能风控工具体系？](https://mp.weixin.qq.com/s/XtRHX1NL6PFnY02KRsN3mA)
+- [智能风控模型的自动化迭代](https://mp.weixin.qq.com/s/l4KWEGqQiSzKSIOF5O6pTg)
+- [第四范式智能风控中台架构设计及应用](https://mp.weixin.qq.com/s/C6TvPV5f7f-iGTQfuhWKKg)
+- [58同城风控平台演进](https://mp.weixin.qq.com/s/x2JjbIc8Br7qlHTZxLn4sQ)
+- [风控建模流程：以京东群体感知项目为例](https://mp.weixin.qq.com/s/wHOhl_jH-ZdJGXz1dN0u8w)
 
 ## 数据集
 
