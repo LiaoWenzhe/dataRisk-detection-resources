@@ -44,7 +44,6 @@
 - 数据安全复合治理与实践白皮书
 - [参数篡改与流量重放](https://juejin.cn/post/6890798533473992717)
 - [常见API攻击](https://zhuanlan.zhihu.com/p/472101085)
-- [58同城风控](https://mp.weixin.qq.com/s/XgD6gmsq15y34Y5pyjtiLQ)
 
 ### 恶意注册账户
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
@@ -160,6 +159,9 @@
 - [第四范式智能风控中台架构设计及应用](https://mp.weixin.qq.com/s/C6TvPV5f7f-iGTQfuhWKKg)
 - [58同城风控平台演进](https://mp.weixin.qq.com/s/x2JjbIc8Br7qlHTZxLn4sQ)
 - [风控建模流程：以京东群体感知项目为例](https://mp.weixin.qq.com/s/wHOhl_jH-ZdJGXz1dN0u8w)
+- [虎牙风控](https://mp.weixin.qq.com/s/maO_L5y0zbVRljfkwCMk4g)
+- [斗鱼](https://mp.weixin.qq.com/s/6m9y1GlIMQFxyu2rY1x7QA)
+
 
 ## 数据集
 
