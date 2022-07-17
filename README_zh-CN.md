@@ -28,7 +28,7 @@
 - [为什么机器学习解决网络安全问题总是失败：脆弱的系统工程](https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html)
 - [为什么机器学习解决网络安全问题总是失败：不合理的评估指标](https://toooold.com/2021/11/13/why_ml_fails_security_evaluation_cn.html)
 - [为什么机器学习解决网络安全问题总是失败：机器学习不是万能灵药](https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html)
-- 
+- [求解网络安全问题的可解释机器学习](https://toooold.com/2022/02/13/explainable_w_shap_cn.html)
 ### OWASP10
 - https://salt.security/blog/what-is-the-owasp-api-security-top-10?
 
@@ -44,6 +44,7 @@
 - 数据安全复合治理与实践白皮书
 - [参数篡改与流量重放](https://juejin.cn/post/6890798533473992717)
 - [常见API攻击](https://zhuanlan.zhihu.com/p/472101085)
+- [58同城风控](https://mp.weixin.qq.com/s/XgD6gmsq15y34Y5pyjtiLQ)
 
 ### 恶意注册账户
 - 《Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach》
@@ -218,9 +219,14 @@
 -  腾讯安全应急响应中心
 -  百度安全应急响应中心
 -  freebuf
+-  datafuntalk
 
 ## 相关顶会
 -  BlackHat / BlackHat Asia
+-  ISC（互联网安全大会）
+-  BCS
+-  KCON
+-  XCON
 -  owasp
 -  botconf
 -  DEF-CON
@@ -244,6 +250,7 @@
 -  安恒信息
 -  闪捷信息
 -  奇安信
+-  impera
 
 ## 相关赛事
 -  DataCon
