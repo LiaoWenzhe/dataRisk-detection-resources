@@ -20,6 +20,14 @@ Using AI for Application Security Protection
 
 ### Data security intelligent risk control landing practice
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
+
+## Getting Started Overview
+- [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Talk About Feature Space](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
+- [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Fragile Systems Engineering](https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html)
+- [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Unreasonable Evaluation Metrics](https://toooold.com/2021/11/13/why_ml_fails_security_evaluation_cn.html)
+- [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Machine Learning Is Not a Panacea](https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html)
+- [Explainable Machine Learning for Solving Cybersecurity Problems](https://toooold.com/2022/02/13/explainable_w_shap_cn.html)
+
 ### OWASP10
 - https://salt.security/blog/what-is-the-owasp-api-security-top-10?
 
@@ -149,6 +157,8 @@ Using AI for Application Security Protection
 - [Fourth Paradigm Intelligent Risk Control Middle Platform Architecture Design and Application](https://mp.weixin.qq.com/s/C6TvPV5f7f-iGTQfuhWKKg)
 - [58 City Risk Control Platform Evolution](https://mp.weixin.qq.com/s/x2JjbIc8Br7qlHTZxLn4sQ)
 - [Risk Control Modeling Process: Take the JD Group Perception Project as an Example](https://mp.weixin.qq.com/s/wHOhl_jH-ZdJGXz1dN0u8w)
+- [Huya Risk Control](https://mp.weixin.qq.com/s/maO_L5y0zbVRljfkwCMk4g)
+- [Betta Fish](https://mp.weixin.qq.com/s/6m9y1GlIMQFxyu2rY1x7QA)
 
 ## data set
 
