@@ -21,6 +21,14 @@
 
 ### 数据安全智能风控落地实践
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
+
+## 入门综述
+
+- [为什么机器学习解决网络安全问题总是失败：谈谈特征空间](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
+- [为什么机器学习解决网络安全问题总是失败：脆弱的系统工程](https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html)
+- [为什么机器学习解决网络安全问题总是失败：不合理的评估指标](https://toooold.com/2021/11/13/why_ml_fails_security_evaluation_cn.html)
+- [为什么机器学习解决网络安全问题总是失败：机器学习不是万能灵药](https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html)
+- 
 ### OWASP10
 - https://salt.security/blog/what-is-the-owasp-api-security-top-10?
 
