@@ -160,6 +160,11 @@ Using AI for Application Security Protection
 - [Huya Risk Control](https://mp.weixin.qq.com/s/maO_L5y0zbVRljfkwCMk4g)
 - [Betta Fish](https://mp.weixin.qq.com/s/6m9y1GlIMQFxyu2rY1x7QA)
 
+
+### Security Conference Presentation Collection
+
+- (https://www.hackinn.com/)
+
 ## data set
 
 1、[Samples of Security Related Dats](http://link.zhihu.com/?target=http%3A//www.secrepo.com/)
