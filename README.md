@@ -223,6 +223,7 @@ Using AI for Application Security Protection
 - Tencent Security Emergency Response Center
 - Baidu Security Emergency Response Center
 - freebuf
+- [先知社区](https://xz.aliyun.com/?page=2)
 
 ## Related Top Clubs
 -  BlackHat / BlackHat Asia
@@ -263,7 +264,7 @@ Using AI for Application Security Protection
 - https://blog.csdn.net/Liao_Wenzhe/
 - http://iami.xyz
 - https://www.cdxy.me/
--Alibaba Cloud Security
+- Alibaba Cloud Security
 
 
 ## Some interesting web attack and defense speeches on BlackHat
