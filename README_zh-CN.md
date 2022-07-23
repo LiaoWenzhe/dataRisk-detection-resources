@@ -205,6 +205,7 @@
 - [乌云](https://wooyun.x10sec.org/search?keywords=aa&content_search_by=by_bugs)
 - [安全会议演示集](https://www.hackinn.com/ )
 - [先知社区](https://xz.aliyun.com/?page=2)
+- cmu/facebook/tencent/ali/mayi  fraud malicious
 
 ## 思维方式：
 - [提出好的想法和方向](https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ)
