@@ -22,7 +22,10 @@
 ### 数据安全智能风控落地实践
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
 
-## 入门综述
+### 入门论文收集
+- https://zhuanlan.zhihu.com/p/545297190
+
+### 入门综述
 
 - [为什么机器学习解决网络安全问题总是失败：谈谈特征空间](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
 - [为什么机器学习解决网络安全问题总是失败：脆弱的系统工程](https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html)
