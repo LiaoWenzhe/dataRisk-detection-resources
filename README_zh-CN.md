@@ -23,8 +23,6 @@
 - [isc2022主题演讲：AI驱动API安全风险检测与运营](https://zhuanlan.zhihu.com/p/548450688)
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
 
-### 入门论文收集
-- https://zhuanlan.zhihu.com/p/545297190
 
 ### 入门综述
 
