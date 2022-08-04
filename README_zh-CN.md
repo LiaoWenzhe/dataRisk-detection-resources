@@ -230,10 +230,16 @@
 
 ## 相关顶会
 -  BlackHat / BlackHat Asia
--  ISC（互联网安全大会）
+-  ISC
+-  poc
+-  fit
+-  cis
+-  tsec
 -  BCS
 -  KCON
 -  XCON
+-  CansecWest
+-  HITB
 -  owasp
 -  botconf
 -  DEF-CON
