@@ -234,6 +234,7 @@
 ## 相关顶会
 -  BlackHat / BlackHat Asia
 -  ISC
+-  first
 -  geekpwn
 -  poc
 -  fit
