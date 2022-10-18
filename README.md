@@ -10,7 +10,10 @@ The author is fortunate to join one of China's leading data security startups in
 
 
 **Refuse to prostitute, welcome star!！**<br><br>
-The author has set up a big data security technology exchange group, with friends all over Silicon Valley, Singapore, Tencent, Ali, Zhejiang University, etc. Like-minded friends are welcome to contact me to join!<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
+The author has set up a big data security technology exchange group, with friends all over Silicon Valley, Singapore, Tencent, Ali, Zhejiang University, etc. Like-minded friends are welcome to contact me to join! <br> <br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="180" height="180" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/> 
+&emsp;&emsp;<img width="180" height="180" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat1.jpg"/>
+&emsp;&emsp;<img width="180" height="180" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat2.jpg"/>
 
 Last updated date is:2022/1<br><br>
 
