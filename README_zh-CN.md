@@ -25,6 +25,8 @@
 ### 数据安全智能风控落地实践
 - [isc2022主题演讲：AI驱动API安全风险检测与运营](https://zhuanlan.zhihu.com/p/548450688)
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
+- https://zhuanlan.zhihu.com/p/466955597?
+- https://zhuanlan.zhihu.com/p/511095084
 
 
 ### 入门综述
