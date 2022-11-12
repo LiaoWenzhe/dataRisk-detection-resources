@@ -24,6 +24,9 @@ Using AI for Application Security Protection
 ### Data security intelligent risk control landing practice
 - [isc2022](https://zhuanlan.zhihu.com/p/548450688)
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
+- https://zhuanlan.zhihu.com/p/466955597?
+- https://zhuanlan.zhihu.com/p/511095084
+- https://mp.weixin.qq.com/s/Sme4gLnEHyxyhRSN2RUqCA
 
 ## Getting Started Overview
 - [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Talk About Feature Space](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
