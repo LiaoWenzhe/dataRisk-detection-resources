@@ -15,7 +15,7 @@ The author has set up a big data security technology exchange group, with friend
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat1.jpg"/>
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat2.jpg"/>
 
-Last updated date is:2022/1<br><br>
+Last updated date is:2022/11<br><br>
 
 ## AI Application Defense
 Using AI for Application Security Protection
