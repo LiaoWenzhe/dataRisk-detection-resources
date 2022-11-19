@@ -16,7 +16,7 @@
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat1.jpg"/>
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat2.jpg"/>
 
-最近更新日期为：2022/10<br><br>
+最近更新日期为：2022/11<br><br>
 
 ## AI应用防御篇
 用AI来做应用安全防护
