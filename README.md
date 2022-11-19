@@ -27,6 +27,7 @@ Using AI for Application Security Protection
 - https://zhuanlan.zhihu.com/p/466955597?
 - https://zhuanlan.zhihu.com/p/511095084
 - https://mp.weixin.qq.com/s/Sme4gLnEHyxyhRSN2RUqCA
+- https://www.zhihu.com/column/c_1471819989803700224
 
 ## Getting Started Overview
 - [Why Machine Learning Always Fails to Solve Cybersecurity Problems: Talk About Feature Space](https://toooold.com/2021/09/27/why_ml_fails_solving_sec_algo.html)
