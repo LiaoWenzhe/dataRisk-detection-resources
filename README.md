@@ -21,7 +21,7 @@ Last updated date is:2022/11<br><br>
 Using AI for Application Security Protection
 
 
-### Data security intelligent risk control landing practice
+### personal collection：Data security intelligent risk control landing practice
 - [isc2022](https://zhuanlan.zhihu.com/p/548450688)
 - https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q
 - https://zhuanlan.zhihu.com/p/466955597?
